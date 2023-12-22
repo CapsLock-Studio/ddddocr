@@ -8,6 +8,7 @@ ddddocr = "*"
 fastapi = "*"
 uvicorn = "*"
 pydantic = "*"
+onnxruntime = "==1.16.3"
 
 [dev-packages]
 flake8 = "*"
